@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/modern-react-avatar-example/static/css/main.824b163c.chunk.css",
-    "main.js": "/modern-react-avatar-example/static/js/main.f3f87153.chunk.js",
-    "main.js.map": "/modern-react-avatar-example/static/js/main.f3f87153.chunk.js.map",
-    "runtime-main.js": "/modern-react-avatar-example/static/js/runtime-main.6d7e7e0c.js",
-    "runtime-main.js.map": "/modern-react-avatar-example/static/js/runtime-main.6d7e7e0c.js.map",
-    "static/js/2.d416007a.chunk.js": "/modern-react-avatar-example/static/js/2.d416007a.chunk.js",
-    "static/js/2.d416007a.chunk.js.map": "/modern-react-avatar-example/static/js/2.d416007a.chunk.js.map",
-    "index.html": "/modern-react-avatar-example/index.html",
-    "precache-manifest.e63796a363af5025f04f76d237b7e680.js": "/modern-react-avatar-example/precache-manifest.e63796a363af5025f04f76d237b7e680.js",
-    "service-worker.js": "/modern-react-avatar-example/service-worker.js",
-    "static/css/main.824b163c.chunk.css.map": "/modern-react-avatar-example/static/css/main.824b163c.chunk.css.map",
-    "static/js/2.d416007a.chunk.js.LICENSE.txt": "/modern-react-avatar-example/static/js/2.d416007a.chunk.js.LICENSE.txt"
+    "main.css": "./example/static/css/main.824b163c.chunk.css",
+    "main.js": "./example/static/js/main.f3f87153.chunk.js",
+    "main.js.map": "./example/static/js/main.f3f87153.chunk.js.map",
+    "runtime-main.js": "./example/static/js/runtime-main.376d1813.js",
+    "runtime-main.js.map": "./example/static/js/runtime-main.376d1813.js.map",
+    "static/js/2.d416007a.chunk.js": "./example/static/js/2.d416007a.chunk.js",
+    "static/js/2.d416007a.chunk.js.map": "./example/static/js/2.d416007a.chunk.js.map",
+    "index.html": "./example/index.html",
+    "precache-manifest.111abbb14ba09b61a3e47c1cb3695c1c.js": "./example/precache-manifest.111abbb14ba09b61a3e47c1cb3695c1c.js",
+    "service-worker.js": "./example/service-worker.js",
+    "static/css/main.824b163c.chunk.css.map": "./example/static/css/main.824b163c.chunk.css.map",
+    "static/js/2.d416007a.chunk.js.LICENSE.txt": "./example/static/js/2.d416007a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d7e7e0c.js",
+    "static/js/runtime-main.376d1813.js",
     "static/js/2.d416007a.chunk.js",
     "static/css/main.824b163c.chunk.css",
     "static/js/main.f3f87153.chunk.js"
