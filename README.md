@@ -22,6 +22,22 @@ export default function App() {
   return <MyComponent />
 }
 ```
+## Options
+
+The options can be passed into as React props.
+| key            | type   | default | accept
+| -------------- | ------ | ------- | -------------------------------------------- |
+| `className`    | string |         |                                              |
+| `style`        | object |         |                                              |
+| `shape`        | string | circle  | circle, square                               |
+| `name`        | string |          |                                |
+| `randomColor`  | boolean |  false       |                                              |
+| `size`         | string |  default | small, large                          |
+| `icon`         | boolean |  false        |                           |
+| `alt`         | string |          |                           |
+| `src`         | string |          |                           |
+
+
 
 ## License
 
