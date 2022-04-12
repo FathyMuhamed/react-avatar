@@ -1,4 +1,4 @@
-._avatar-module__avatar__3z8Zf {
+._3z8Zf {
   display: inline-block;
   text-align: center;
   background: #ccc;
@@ -15,26 +15,26 @@
   justify-content: center;
   align-items: center;
 }
-._avatar-module__avatar__3z8Zf + ._avatar-module__avatar__3z8Zf {
+._3z8Zf + ._3z8Zf {
   margin-left: 10px;
 }
-._avatar-module__small__1z-mB {
+._1z-mB {
   height: 2.8rem;
   width: 2.8rem;
   font-size: 1.4rem;
 }
-._avatar-module__large__1Nhji {
+._1Nhji {
   height: 3.4rem;
   width: 3.4rem;
   font-size: 1.8rem;
 }
-._avatar-module__circle__2baLj {
+._2baLj {
   border-radius: 50%;
 }
-._avatar-module__square__pSkHt {
+._pSkHt {
   border-radius: 0;
 }
-._avatar-module__avatar__3z8Zf > img {
+._3z8Zf > img {
   width: 100%;
   height: 100%;
   display: block;

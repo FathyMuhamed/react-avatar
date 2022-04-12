@@ -19,7 +19,7 @@ import { Avatar } from 'modern-react-avatar'
 import 'modern-react-avatar/dist/index.css'
 
 export default function App() {
-  return <MyComponent />
+  return <Avatar />
 }
 ```
 ## Options
